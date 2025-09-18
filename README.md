@@ -2,4 +2,4 @@
 
 🌐 Full-stack | ☕ Kotlin fan | 🚀 Astro-enthusiast
 
-I'm a software engineer with a love for all things web.
+I’m a software engineer passionate about building reliable, scalable systems and intuitive user experiences
